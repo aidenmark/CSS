@@ -1,2 +1,4 @@
 # Front-End Web Development 
-This will repository will show front-end web development work.  Primary languages include HTML, CSS and very little Javascript
+This repository will serve as a collection of simple programs written in front-end web development languages. 
+These languages will include HTML, CSS, and JavaScript.
+Through this repo, I hope to showcase my continued growth with these languages.
